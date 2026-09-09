@@ -1,4 +1,4 @@
-package main.java.com.estoque;
+package com.estoque;
 
 public class Main {
     public static void main(String[] args) {
